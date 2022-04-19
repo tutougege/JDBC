@@ -5,6 +5,7 @@ import java.sql.*;
 /**
  * @author liwei
  * @create 2022-04-15-15:15
+ *
  **/
 public class JDBC {
     public static String url;
